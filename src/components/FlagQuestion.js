@@ -1,5 +1,6 @@
 import React from 'react';
 import FlagChoices from './FlagChoices';
+import FlagAnswer from './FlagAnswer';
 
 const QuestionStates = {
     QUESTION: 1,
