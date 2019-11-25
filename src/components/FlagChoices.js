@@ -13,7 +13,7 @@ const FlagChoices = props => {
     return (
         <form onSubmit={handleSubmit}>
             {inputs}
-            <button text="guess" type="submit" />
+            <button text="guess" type="submit">Guess</button>
         </form>
     )
 }
